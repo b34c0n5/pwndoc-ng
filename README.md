@@ -40,6 +40,9 @@ This fork includes pending PR and new feature such as:
 
 ## Documentation
 
+Application is accessible through https://localhost:8443
+API is accessible through https://localhost:8443/api
+
 - [Installation](https://pwndoc-ng.github.io/pwndoc-ng/#/installation)
 - [Data](https://pwndoc-ng.github.io/pwndoc-ng/#/data)
 - [Vulnerabilities](https://pwndoc-ng.github.io/pwndoc-ng/#/vulnerabilities)
